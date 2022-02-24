@@ -12,3 +12,5 @@ https://JayP4801.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by JayP
+
+# Run Buddy Inc.
