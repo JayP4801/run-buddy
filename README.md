@@ -14,3 +14,4 @@ https://JayP4801.github.io/run-buddy/
 Made with ❤️ by JayP
 
 ### ©️2019 Run Buddy, Inc 
+ 
